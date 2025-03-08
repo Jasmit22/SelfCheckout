@@ -6,9 +6,6 @@ This was the final project created for SENG 300, in which we were tasked to crea
 ## Presentation
 [View Presentation Here.](https://drive.google.com/drive/folders/1qMn56i3_NpBbFE9BXA5X_5Vni04O1lRg)
 
-![App Screenshot](https://media.discordapp.net/attachments/1176383121541845085/1184879911668822076/Capture.PNG?ex=66e6fd68&is=66e5abe8&hm=39f4d67f2593eda244ca2b51f6975b6806b5b4262835bd2da50083cedb056c4e&=&format=webp&quality=lossless&width=2098&height=208)
-
-😎😎
 
 ## Running Tests
 
